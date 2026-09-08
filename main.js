@@ -38,7 +38,7 @@ const CONFIG = {
 
   // ONE ACCOUNT ONLY.
   account: {
-    username: process.env.TREEBOT_USERNAME || 'Vanshika9_YT',
+    username: process.env.TREEBOT_USERNAME || 'GW_KING_YT',
     password: process.env.TREEBOT_PASSWORD || ''
   },
 
